@@ -1,3 +1,3 @@
 function randomize(limit){
-  return Math.floor(Math.random() * limit + 1);
+  return Math.floor(Math.random() * limit);
 }
